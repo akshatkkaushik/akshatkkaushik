@@ -5,13 +5,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=akshatkkaushik&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/akshatkkaushik/akshatkkaushik/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -58,19 +58,19 @@ Software Developer and Aspiring AI Engineer currently pursuing an undergraduate 
   
 ### `GitHub Stats`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatkkaushik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=akshatkkaushik&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 ### `ACTIVITY`
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=akshatkkaushik&theme=tokyo-night" alt="Contribution Graph" />
 
 ### `TROPHIES`
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=akshatkkaushik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 
 </div>
 
@@ -79,10 +79,10 @@ Software Developer and Aspiring AI Engineer currently pursuing an undergraduate 
 ### `CONNECT`
 
 <div align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/akshat-kumar-iitkgp" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/akshatkkaushik" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
