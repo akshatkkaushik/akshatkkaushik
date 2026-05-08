@@ -36,30 +36,43 @@ Software Developer and Aspiring AI Engineer currently pursuing an undergraduate 
 
 **Languages**
 <br/>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=151515)
+![TypeScript](https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=%23007ACC&labelColor=151515)
+![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=%23ffdd54&labelColor=151515)
+![C++](https://img.shields.io/badge/C%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&labelColor=151515)
+![HTML5](https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=151515)
+![CSS3](https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=151515)
+
+<br/>
 
 **Frontend & Backend**
 <br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=151515)
+![NodeJS](https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=node.js&logoColor=%23339933&labelColor=151515)
+![Express.js](https://img.shields.io/badge/Express.js-151515?style=for-the-badge&logo=express&logoColor=white&labelColor=151515)
+
+<br/>
 
 **Databases, Architecture & Tools**
 <br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Yjs](https://img.shields.io/badge/Yjs-FF8C00?style=for-the-badge&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb&logoColor=%234ea94b&labelColor=151515)
+![WebSockets](https://img.shields.io/badge/WebSockets-151515?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=151515)
+![Yjs](https://img.shields.io/badge/Yjs-151515?style=for-the-badge&logo=javascript&logoColor=%23FF8C00&labelColor=151515)
+![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=%23F05033&labelColor=151515)
+![GitHub](https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white&labelColor=151515)
 
----
+<br/>
 
-<div align="center">
+**AI, ML & Data Science**
+<br/>
+![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=151515)
+![NumPy](https://img.shields.io/badge/NumPy-151515?style=for-the-badge&logo=numpy&logoColor=%234DABCF&labelColor=151515)
+![Pandas](https://img.shields.io/badge/Pandas-151515?style=for-the-badge&logo=pandas&logoColor=white&labelColor=151515)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-151515?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=151515)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-151515?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E&labelColor=151515)
+![PyTorch](https://img.shields.io/badge/PyTorch-151515?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C&labelColor=151515)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-151515?style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00&labelColor=151515)
+![OpenCV](https://img.shields.io/badge/OpenCV-151515?style=for-the-badge&logo=opencv&logoColor=white&labelColor=151515)
   
 ### `GitHub Stats`
 
