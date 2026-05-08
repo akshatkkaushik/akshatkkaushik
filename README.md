@@ -1,8 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Akshat%20Kumar&fontSize=50&fontAlignY=35&desc=Software%20Developer%20%26%20Aspiring%20AI%20Engineer&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=220&section=header&text=Akshat%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descFontSize=20&descColor=e0e0e0&animation=twinkling&v=2" alt="Modern Blue Header Banner" />
 </div>
 
 <br/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Aspiring+AI+Engineer;Building+Real-Time+Collaborative+Tools;Exploring+Agentic+App+Experiences" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=akshatkkaushik&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -62,11 +67,11 @@ Software Developer and Aspiring AI Engineer currently pursuing an undergraduate 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshatkkaushik&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=akshatkkaushik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ### `ACTIVITY`
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=akshatkkaushik&theme=tokyo-night" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatkkaushik&theme=tokyo-night" alt="Contribution Graph" />
 
 ### `TROPHIES`
 
